@@ -443,8 +443,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "ch32v003usb.step",
+      "vrml": "ch32v003usb.wrl"
     },
     "page_layout_descr_file": ""
   },
